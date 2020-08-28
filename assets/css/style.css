@@ -609,7 +609,7 @@ section {
 }
 
 .section-bg {
-  background-color: #A8DADC;
+  background-color: #E63946;
 }
 
 .section-title {
@@ -1061,7 +1061,7 @@ section {
 }
 
 .appointment .php-email-form button[type="submit"]:hover {
-  background: #52c2c6;
+  background: #1D3557;
 }
 
 /*--------------------------------------------------------------
