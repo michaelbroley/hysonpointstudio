@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #65c9cd;
+  color: #e63946;
   text-decoration: none;
 }
 
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .appointment-btn:hover {
-  background: #65c9cd;
+  background: #e63946;
   color: #fff;
 }
 
@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #65c9cd;
+  background: #e63946;
 }
 
 @media (max-width: 992px) {
@@ -609,7 +609,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7fcfc;
+  background-color: #f1faee;
 }
 
 .section-title {
@@ -1445,7 +1445,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #65c9cd;
+  background: #e63946;
 }
 
 .pricing .featured h3 {
@@ -1633,7 +1633,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #65c9cd;
+  background: #e63946;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1704,7 +1704,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #65c9cd;
+  background: #e63946;
   text-decoration: none;
 }
 
@@ -1784,7 +1784,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #65c9cd;
+  background: #e63946;
 }
 
 #footer .copyright {
